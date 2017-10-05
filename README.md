@@ -11,4 +11,5 @@
 
 ### Open Data Science 
 Участвовала в проекте от Open Data Science и Mail.ru Group. Тут выложены мои домашки.
+[Ссылка](https://habrahabr.ru/company/ods/blog/322626/)
 (в разработке)
