@@ -3,7 +3,6 @@ Here my works on Machine learning will be presented.
 
 ### Mephi_course
 Laboratory work from MEPHI. For study / practice.
-Later I will post solutions 4 and 5 of the work.
 
 ### S7 hackaton
 Hackaton from S7 Airlines. Participated in the direction of Big Data.
