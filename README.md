@@ -13,5 +13,6 @@ In the solutions themselves, there are no errors, but they have removed points f
 I participated in the project from "Open Data Science" and "Mail.ru Group" (start 6 September, 2017). Here my homework is laid out.
 [Link to lectures.](https://habrahabr.ru/company/ods/blog/322626/)
 
-
-
+### REY_course
+Project on the subject "Design of Information Intelligent Systems".
+Check for the presence of cardiovascular disease by the results of a classic medical examination.
