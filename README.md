@@ -2,15 +2,15 @@
 This repo contains my work in Machine Learning.
 
 ### Mephi_course
-Laboratory work from MEPHI. For study / practice.
+Laboratory work from MEPHI University. For study and practice.
 
 ### S7 hackaton
 Hackaton from S7 Airlines. Participated in the direction of Big Data.
-In the solutions themselves, there are no errors, but they have removed points for the overall design. We were not given a clear answer, for what mistakes the points were lifted =/
+Current solution doesn't include any mistakes, but they have removed points for the overall design.
 [Link to Hackaton.](https://www.s7.ru/home/offers/hackathon/index.dot)
 
 ### Open Data Science 
-I participated in the project from "Open Data Science" and "Mail.ru Group" (start 6 September, 2017). Here my homework is laid out.
+I participated in the project from "Open Data Science" and "Mail.ru Group" (start 6 September, 2017). There are all my homeworks. 
 [Link to lectures.](https://habrahabr.ru/company/ods/blog/322626/)
 
 ### REY_course
