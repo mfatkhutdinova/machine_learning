@@ -1,4 +1,4 @@
-# MachineLearning 
+# Machine Learning 
 This repo contains my work in Machine Learning.
 
 ### Mephi_course
