@@ -1,5 +1,5 @@
 # MachineLearning 
-Here my works on Machine learning will be presented.
+This repo contains my work in Machine Learning.
 
 ### Mephi_course
 Laboratory work from MEPHI. For study / practice.
